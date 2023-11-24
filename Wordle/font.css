@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&family=Gowun+Batang:wght@400;700&family=Noto+Sans+KR:wght@500&family=Orbit&display=swap');
+
+*{
+    font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Gowun Batang', serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Orbit', sans-serif;
+    font-family: 'Black Han Sans', sans-serif;
+}
